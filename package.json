@@ -1,6 +1,6 @@
 {
   "name": "html-slides-template",
-  "version": "1.1.0",
+  "version": "1.2.0-dev",
   "description": "Moteur de présentation HTML autonome et moderne assisté par IA avec console orateur dual-screen et auto-ajustement vectoriel",
   "type": "module",
   "main": "template_presentation.html",
